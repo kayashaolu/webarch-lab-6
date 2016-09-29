@@ -1,5 +1,5 @@
 # Lab 6
-Create our first web server
+Create your first web server
 
 ## In this lab you will accomplish the following:
  - Create your own web server without any starter code
