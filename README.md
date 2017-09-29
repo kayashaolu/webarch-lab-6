@@ -7,6 +7,6 @@ Create your first web server
  
 ## Move the website you created in [lab 4](https://github.com/kayashaolu/webarch-lab-4) to its own server
  - It should have the same functionality as lab 4
- - Must use a template (think ```res.render()```)
+ - Must use a template (think ```render_template()```)
  - Must create a static server to host your css and js files
- - The end goal is to have the same page you had in lab 4 running from your own server "http://localhost:3000/"
+ - The end goal is to have the same page you had in lab 4 running from your own server "http://localhost:5000/"
